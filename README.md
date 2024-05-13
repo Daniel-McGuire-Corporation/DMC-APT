@@ -4,7 +4,10 @@
 This repository hosts packages developed by us.
 ### How to Add the Repository:
 ```bash
-sudo echo "deb https://daniel-mcguire-corporation.github.io/DMC-APT/" | sudo tee /etc/apt/sources.list.d/my-repo.list
+wget -O - https://daniel-mcguire-corporation.github.io/DMC-APT/public.asc | gpg --dearmor | sudo tee /usr/share/keyrings/dmc-archive-keyring.gpg >/dev/null
+```
+```bash
+echo "deb [signed-by=/usr/share/keyrings/dmc-archive-keyring.gpg] https://daniel-mcguire-corporation.github.io/DMC-APT/ bionic main" | sudo tee /etc/apt/sources.list.d/dmc.list
 ```
 ```bash
 sudo apt update
