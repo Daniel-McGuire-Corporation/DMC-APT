@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel McGuire Corporation APT Repo</title>
+</head>
+<body>
+    <h1>Welcome to Our APT Repository</h1>
+    <p>This repository hosts packages developed by us.</p>
+    <h2>How to Add the Repository:</h2>
+    <pre>
+        sudo echo "deb https://daniel-mcguire-corporation.github.io/DMC-APT/" | sudo tee /etc/apt/sources.list.d/my-repo.list
+        sudo apt update
+    </pre>
+    <p>Replace "your-username" and "your-repo" with your actual GitHub username and repository name.</p>
+</body>
+</html>
