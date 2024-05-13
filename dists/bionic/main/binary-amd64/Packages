@@ -1,0 +1,15 @@
+Package: mathbotcli
+Version: 3.4.0
+Architecture: all
+Essential: no
+Depends: ca-certificates,libc6,libgcc-s1,liblttng-ust1,libssl3,libstdc++6,libunwind8,zlib1g,dotnet-runtime-8.0
+Maintainer: Daniel McGuire Corporation
+Priority: 0
+Section: utils
+Filename: pool/main/m/mathbotcli/mathbotcli_3.4.0_all.deb
+Size: 39932
+SHA256: 94056de53d75a780003160d8c2721a59fffad58297df136d50275b3c583828e7
+SHA1: 010dca051d5b8fbd95f6e06ac677830e6a569241
+MD5sum: 04f229ef31f9089a60ee9803fc8e8c16
+Description: Command Line Calculator
+

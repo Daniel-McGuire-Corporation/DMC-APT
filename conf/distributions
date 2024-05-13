@@ -1,0 +1,7 @@
+Origin: Daniel McGuire Corporation
+Label: dmc
+Suite: stable
+Codename: bionic
+Architectures: amd64
+Components: main 
+Description: DMC Apt Repo
