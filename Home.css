@@ -1,0 +1,56 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Roboto, sans-serif;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Merriweather Sans";
+  margin: 55px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Merriweather Sans";
+  margin: 106px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Merriweather Sans";
+  margin: 124px auto 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 169px;
+  margin-top: 33px;
+  margin-bottom: 0;
+  background-image: none;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: "Merriweather Sans";
+  width: 800px;
+  margin: -37px auto 60px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-5 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-5 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-5 {
+    width: 340px;
+  }
+}
