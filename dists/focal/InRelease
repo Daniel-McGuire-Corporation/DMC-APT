@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Daniel McGuire Corporation
+Label: dmc
+Codename: focal
+Date: Fri, 14 Jun 2024 02:49:45 UTC
+Architectures: i386 amd64
+Components: main
+Description: DMC Apt Repo
+MD5Sum:
+ e1fa0ab4d7fff8d06fb3bf56c2ea88c2 1209 main/binary-i386/Packages
+ 917356c63059e41b9a14b57766a1215f 655 main/binary-i386/Packages.gz
+ f912c17a0c6b8f936b3c48b2b2f14987 107 main/binary-i386/Release
+ e1fa0ab4d7fff8d06fb3bf56c2ea88c2 1209 main/binary-amd64/Packages
+ 917356c63059e41b9a14b57766a1215f 655 main/binary-amd64/Packages.gz
+ 3a934ec83c09987db58b2e7989683b12 108 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 6fef91e83455aac0e37e41b72008c016 109 main/source/Release
+SHA1:
+ dea4c040326b8d185378bad4d065f2c1ed914d99 1209 main/binary-i386/Packages
+ 3fc97844650ac363b5d67eead42a7116376a5bad 655 main/binary-i386/Packages.gz
+ 4c768593a594ad7302fb610d549328fb3bf4863c 107 main/binary-i386/Release
+ dea4c040326b8d185378bad4d065f2c1ed914d99 1209 main/binary-amd64/Packages
+ 3fc97844650ac363b5d67eead42a7116376a5bad 655 main/binary-amd64/Packages.gz
+ de29d7f61c06b21a4ff102ae051c72cfe12ce451 108 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ f12fc406d8ff1d662ab29f193eb7b49fe6beaab8 109 main/source/Release
+SHA256:
+ d469cd427690eda2d69717047330ae1f0810997f8d12133d437e3d3d105fbd94 1209 main/binary-i386/Packages
+ 71852ec19b0a0461134876cf255ccbcdaecf5d524c9b7a21fbdcae6b4a3ee752 655 main/binary-i386/Packages.gz
+ d48375b0596f1a64c7833d9a666d35f8915f5ef583da6b79fadf27f9ae144339 107 main/binary-i386/Release
+ d469cd427690eda2d69717047330ae1f0810997f8d12133d437e3d3d105fbd94 1209 main/binary-amd64/Packages
+ 71852ec19b0a0461134876cf255ccbcdaecf5d524c9b7a21fbdcae6b4a3ee752 655 main/binary-amd64/Packages.gz
+ 45de2d7c1c820af89a161a2f979a2ddf2fc19947aae071785d6a53d5dcffa22a 108 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 3b852c15db94267fae26b45f1e01c55fd3805a8fc06cc48d3a0dd141b024724f 109 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTjN9WyazQ1J7/wnIzKJY6pk9UJaAUCZmuvyQAKCRDKJY6pk9UJ
+aHOAAQCmE+iRRmRbrfchAU9D/iH1S6uufNLO5uhHu/8532aGjgD8C7e1SHWMiQOU
+UU3Co2RlSghLVWzcPsIybXfWFf8D9AU=
+=94bD
+-----END PGP SIGNATURE-----

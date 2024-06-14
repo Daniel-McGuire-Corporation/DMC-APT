@@ -1,0 +1,5 @@
+Component: main
+Origin: Daniel McGuire Corporation
+Label: dmc
+Architecture: amd64
+Description: DMC Apt Repo

@@ -1,0 +1,30 @@
+Package: mathbotcli
+Version: 3.4.0
+Architecture: all
+Essential: no
+Depends: ca-certificates,libc6,libgcc-s1,liblttng-ust1,libssl3,libstdc++6,libunwind8,zlib1g,dotnet-runtime-8.0
+Maintainer: Daniel McGuire Corporation
+Priority: optional
+Section: utils
+Filename: pool/main/m/mathbotcli/mathbotcli_3.4.0_all.deb
+Size: 39932
+SHA256: 94056de53d75a780003160d8c2721a59fffad58297df136d50275b3c583828e7
+SHA1: 010dca051d5b8fbd95f6e06ac677830e6a569241
+MD5sum: 04f229ef31f9089a60ee9803fc8e8c16
+Description: Command Line Calculator
+
+Package: simplebrowserfire
+Version: 0.0.1
+Architecture: all
+Essential: no
+Depends: libgtk-3-0,libx11-6,libx11-xcb1,libxcb1,libxcomposite1,libxdamage1,libxext6,libxfixes3,libxi6,libxrender1,libxt6,libdbus-glib-1-2,libdbus-1-3,libglib2.0-0,libnspr4,libnss3,libpango-1.0-0,libpangocairo-1.0-0,libpangoft2-1.0-0,libstartup-notification0
+Maintainer: Daniel McGuire Corporation
+Priority: optional
+Section: utils
+Filename: pool/main/s/simplebrowserfire/simplebrowserfire_0.0.1_all.deb
+Size: 525883562
+SHA256: 6ef20ce5e48628dd0b36d01fae3116474e5cf019c52ab3788e2e16bc8599bd1f
+SHA1: 7dbf4df9640b39cf2acea77cb6a311a0a4b725d2
+MD5sum: 0adeabbfb46332a56fa1b70835e3e5fd
+Description: Simple Browser Fire
+
