@@ -1,7 +1,7 @@
 Origin: Daniel McGuire Corporation
 Label: dmc
-Suite: stable
-Codename: bionic
-Architectures: amd64
-Components: main 
+Codename: focal
+Architectures: i386 amd64 source
+Components: main
 Description: DMC Apt Repo
+SignWith: E337D5B26B343527BFF09C8CCA258EA993D50968
